@@ -14,7 +14,6 @@
 
 
 ---
-About me!
 ###  18 years old  
 ###  Student at UDF
 ---

@@ -12,9 +12,9 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://www.instagram.com/shy0li" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="32" style="margin-right: 8px"></a> <a href="https://github.com/shy0li" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height="32" style="margin-right: 8px"></a></p>
 
- # About me!
 
 ---
+# About me!
 ###  18 years old  
 ###  Student at UDF
 ---

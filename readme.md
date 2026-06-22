@@ -23,8 +23,8 @@ I’m currently a student and always trying to learn more and improve my skills.
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 university projects**
-- 🌱 I'm currently learning: **📚 UI/UX, artificial intelligence, data analysis and diagrams**
+-  I'm currently working on: **💻 university projects**
+-  I'm currently learning: **📚 UI/UX, artificial intelligence, data analysis and diagrams**
 - 💬 Ask me about: **💡 Python**
 
  **<h3 align="left">Skills</h3>**
